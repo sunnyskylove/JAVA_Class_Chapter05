@@ -1,6 +1,6 @@
-package com.ohgiraffers.section02.demensinal_;
+package com.ohgiraffers.section2.demensinal;
 
-public class Application3 {
+public class Application03 {
 
     public static void main(String[] args) {
 
